@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "source-1",
+      "path": "reference.png",
+      "width_px": 1600,
+      "height_px": 900
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "source_id": "source-1",
+      "classification": "rendered-slide",
+      "elements": []
+    }
+  ]
+}

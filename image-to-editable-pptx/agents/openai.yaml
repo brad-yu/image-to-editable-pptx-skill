@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转可编辑 PPT"
+  short_description: "将参考图片重建为结构化、可编辑并经过视觉与结构验证的 PPTX"
+  default_prompt: "Use $image-to-editable-pptx to rebuild these reference images as editable PowerPoint slides."

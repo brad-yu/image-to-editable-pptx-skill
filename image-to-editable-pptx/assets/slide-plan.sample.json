@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "sample",
+      "path": "sample-reference.png",
+      "width_px": 1280,
+      "height_px": 720
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "source_id": "sample",
+      "classification": "flat-diagram",
+      "elements": [
+        {"id": "background", "type": "shape", "bbox_px": [0, 0, 1280, 720], "editable": true, "role": "background"},
+        {"id": "title", "type": "text", "bbox_px": [80, 54, 1120, 72], "editable": true, "role": "title", "text": "Editable reconstruction"},
+        {"id": "left-node", "type": "shape", "bbox_px": [150, 280, 300, 150], "editable": true, "role": "node"},
+        {"id": "flow", "type": "connector", "bbox_px": [450, 340, 380, 20], "editable": true, "role": "relationship"},
+        {"id": "right-node", "type": "shape", "bbox_px": [830, 280, 300, 150], "editable": true, "role": "node"}
+      ]
+    }
+  ]
+}

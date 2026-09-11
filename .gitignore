@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.codex-test/
+dist/
+*.validation.json
